@@ -1,2 +1,3 @@
 # hello-world
-Learning Git-hub
+Learning Git-hu
+First Hello-World project
